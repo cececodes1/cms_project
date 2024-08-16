@@ -42,10 +42,6 @@ This is a simple Contact Management System implemented in Python. It allows user
 
 - Python 3.x
 
-# License
-
-This project is licensed under the MIT License.
-
 # Author
 
 Sierra Michel
